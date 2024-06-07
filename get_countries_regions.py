@@ -11,7 +11,7 @@ region_lookup = {
     4: 'MENA'
 }
 
-csv_file = 'country_data_export.csv'
+csv_file = 'country_data.csv'
 
 headers = ['iso', 'iso3', 'country_name', 'region_name', 'society_name', 'website']
 
