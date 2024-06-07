@@ -1,0 +1,51 @@
+cluster_id,region_id,countries
+1,0,"Burkina Faso, Cote d'Ivoire, Mali, Niger"
+2,0,"Zimbabwe, Zambia, Malawi"
+3,0,"South Africa, Botswana, Swaziland, Lesotho, Namibia"
+4,0,"Nigeria, Togo, Benin, Ghana"
+5,0,"Senegal, Cape Verde, Gambia, Mauritania"
+6,0,"Mozambique, Angola"
+7,0,"Democratic Republic of Congo, Congo, Rwanda, Burundi"
+8,0,"Central African Republic, Chad"
+9,0,"Somalia, Kenya"
+10,0,"South Sudan, Uganda, Tanzania"
+11,0,"Madagascar, Mauritius, Comoros, Seychelles"
+12,0,"Sudan, Eritrea"
+13,0,"Sierra Leone, Liberia, Guinea, Guinea Bissau"
+14,0,"Ethiopia, Djibouti"
+15,0,"Cameroon, Gabon, Equatorial Guinea, Sao Tome and Principe"
+16,1,"Argentina, Brazil, Chile, Paraguay, Uruguay"
+17,1,"Bolivia, Ecuador, Peru"
+18,1,"El Salvador, Guatemala, Honduras, Nicaragua, Costa Rica, Panama"
+19,1,"Cuba, Dominican Republic, Haiti"
+20,1,"Antigua and Barbuda, Belize, Bahamas, Dominica, Grenada, Guyana, Jamaica, Suriname, Trinidad, Saint Kitts and Nevis, Saint Vincent and the Grenadines, Saint Lucia"
+21,1,Venezuela
+22,1,Colombia
+23,2,"China, Mongolia, Japan, Republic of Korea"
+24,2,"India, Sri Lanka, Bhutan, Maldives"
+25,2,"Thailand, Cambodia, Laos, Vietnam"
+26,2,"Brunei, Indonesia, Timor Leste"
+27,2,"Australia, Cook Islands, Fiji, Samoa, Tonga, Solomon Islands, Tuvalu, Kiribati, Micronesia, Vanuatu, Marshall Islands, Palau"
+28,2,Afghanistan
+29,2,Nepal
+30,2,Democratic People's Republic of Korea
+31,2,Myanmar
+32,2,Pakistan
+33,2,Bangladesh
+34,2,Philippines
+35,2,Malaysia
+36,2,Papua New Guinea
+37,3,"Armenia, Georgia, Azerbaijan"
+38,3,Russian Federation and Belarus
+39,3,"Kyrgyzstan, Kazakhstan, Tajikistan, Turkmenistan, Uzbekistan"
+40,3,TŸrkiye
+41,3,"Ukraine, Moldova, Poland, Lithuania, Estonia, Latvia"
+42,3,Moldova
+43,4,Iran
+44,4,"Iraq, Lebanon"
+45,4,Syria
+46,4,Palestine
+47,4,Jordan
+48,4,Yemen
+49,4,Libya
+50,4,Algeria
